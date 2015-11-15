@@ -1,0 +1,36 @@
+div.map_1 {
+	padding-right: 0px;
+	padding-left: 0px;
+	background: url('../../images/service_client/map_ua_files/blank_map.gif') no-repeat 0px 0px;
+	left: 70px;
+	padding-bottom: 0px;
+	width: 511px;
+	padding-top: 5px;
+	position: absolute;
+	top:0px;
+	height: 348px
+}
+div.map_1 img {
+	visibility: hidden; position: absolute
+}
+div.map_1 div {
+	font-size: 10px; color: #000000; position: absolute
+}
+
+.servicesidemenu a.first {
+	padding-left: 10px;
+	font-weight: bold !important;
+	display: block;
+	padding: 5px 20px 5px 10px;
+	margin: 1px 0;
+	color: #414A5B;
+	text-decoration: none;
+}
+.servicesidemenu {
+	float:left;
+	font-size: 11px;
+	width: 170px;
+	line-height: 14px;
+	margin: 40px 5px 20px;
+	color: #414A5B;
+}
